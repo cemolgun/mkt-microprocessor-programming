@@ -6,3 +6,4 @@
 ### L2 - Assembly: Delay
 ### L3 - Assembly: Timer0 Interrupt
 ### L4 - C:        2 Digit Sum Calculator
+### L5 - C:        Reading analog values & Using Timer1
